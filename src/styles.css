@@ -47,7 +47,7 @@ body {
 
 .button:disabled {
   cursor: not-allowed;
-  color: gray;
+  color: grey;
   background: #343434;
 }
 
